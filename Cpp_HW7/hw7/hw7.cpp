@@ -2,7 +2,7 @@
 ** hw7.cpp
 ** Write the source file that contains the definitions of the member and non-member functions
 declared in phonebook.h and used in phone_book_main.cpp
-** Sheng Zhang 11/15/2015
+** Sheng Zhang
 ** SID 604029836
 ***************************************************************************************************/
 
